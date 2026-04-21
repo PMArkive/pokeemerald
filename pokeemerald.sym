@@ -9410,6 +9410,7 @@
 080f9ae8 g 0000001c GetLotadSizeRecordInfo
 080f9b04 g 0000002c CompareLotadSize
 080f9b30 g 0000009c GiveGiftRibbonToParty
+080f9b30 l 00000000 .gcc2_compiled.
 080f9bcc g 00000028 ComputerScreenOpenEffect
 080f9bcc l 00000000 .gcc2_compiled.
 080f9bf4 g 00000028 ComputerScreenCloseEffect

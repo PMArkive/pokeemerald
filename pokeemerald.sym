@@ -34089,6 +34089,7 @@
 082c8312 g 00000000 MoveTutor_EventScript_ExplosionDeclined
 082c831c g 00000000 MoveTutor_EventScript_ExplosionTaught
 082c8326 g 00000000 MoveTutor_EventScript_OpenPartyMenu
+082c832a l 00000000 _last_implicit_waitstate
 082c832d g 00000000 MoveTutor_EventScript_CanOnlyBeLearnedOnce
 082c8336 l 00000000 TrainerHill_OnResume
 082c8372 l 00000000 TrainerHill_OnWarp
